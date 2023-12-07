@@ -1,0 +1,23 @@
+Attribute Information:
+
+age	age	
+sex	sex	
+chest pain type (4 values)	cp	
+resting blood pressure		trestbps	
+serum cholestoral in mg/dl	chol	
+fasting blood sugar > 120 mg/dl		fbs	
+resting electrocardiographic results (values 0,1,2)	restecg	
+maximum heart rate achieved	thalach	
+exercise induced angina		exang	
+oldpeak = ST depression induced by exercise relative to rest	oldpeak	
+the slope of the peak exercise ST segment	slope	
+number of major vessels (0-3) colored by flourosopy	ca	
+thal: 0 = normal; 1 = fixed defect; 2 = reversable defect	thal	
+
+https://www.youtube.com/watch?app=desktop&v=BIJMn1DlFNc
+
+target
+
+https://public.tableau.com/app/profile/kulbhushan.huparikar/viz/HeartDiseaseDiagnosticAnalysis_17018611754520/HeartDiseaseDiagnosticAnalysis?publish=yes
+	
+Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on all irrespective of any status. You are required to analyze this health and medical data for better future preparation. Do ETL: Extract- Transform and Load data from the heart disease diagnostic database. You can perform EDA through python. The database extracts various information such as Heart disease rates, Heart disease by gender, by age.  You can even compare attributes of the data set to extract necessary information. Make the necessary dashboard with the best you can extract from the data. Use various visualization and features and make the best dashboard. Find key metrics and factors and show the meaningful relationships between attributes. Do your own research and come up with your findings
